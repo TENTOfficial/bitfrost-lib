@@ -7,9 +7,9 @@ bitcore.version = 'v' + require('./package.json').version;
 bitcore.versionGuard = function(version) {
   return
   if (version !== undefined) {
-    var message = 'More than one instance of bitcore-lib-snowgem found. ' +
-      'Please make sure to require bitcore-lib-snowgem and check that submodules do' +
-      ' not also include their own bitcore-lib-snowgem dependency.';
+    var message = 'More than one instance of bitfrost-lib found. ' +
+      'Please make sure to require bitfrost-lib and check that submodules do' +
+      ' not also include their own bitfrost-lib dependency.';
     throw new Error(message);
   }
 };
