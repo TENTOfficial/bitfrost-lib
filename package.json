@@ -8,7 +8,7 @@
     "request": "browser-request"
   },
   "bugs": {
-    "url": "https://github.com/snowgem/bitfrost-lib/issues"
+    "url": "https://github.com/TENTOfficial/bitfrost-lib/issues"
   },
   "contributors": [
     {
@@ -66,7 +66,7 @@
     "lodash": "=4.17.4"
   },
   "devDependencies": {
-    "bitcore-build": "https://github.com/snowgem/bitcore-build-snowgem",
+    "bitcore-build": "https://github.com/TENTOfficial/bitcore-build-snowgem",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
@@ -78,7 +78,7 @@
     "tarball": "https://registry.npmjs.org/bitcore-lib/-/bitcore-lib-0.14.0.tgz"
   },
   "gitHead": "2b5b486ee9626eeb0a57c1ef3603d3d42bf46b2f",
-  "homepage": "https://github.com/snowgem/bitfrost-lib",
+  "homepage": "https://github.com/TENTOfficial/bitfrost-lib",
   "keywords": [
     "bitcoin",
     "transaction",
@@ -123,7 +123,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snowgem/bitfrost-lib.git"
+    "url": "git+https://github.com/TENTOfficial/bitfrost-lib.git"
   },
   "scripts": {
     "build": "gulp",
