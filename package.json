@@ -57,7 +57,7 @@
     }
   ],
   "dependencies": {
-    "blake2b": "github:BitGo/blake2b",
+    "blake2b": "github:TENTOfficial/blake2b",
     "bn.js": "=4.11.8",
     "bs58": "=4.0.1",
     "buffer-compare": "=1.1.1",
